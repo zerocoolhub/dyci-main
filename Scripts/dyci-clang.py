@@ -35,20 +35,15 @@ except:
 addition = ''
 if (sys.argv[0][-2:] == '++'):
   addition = '++' 
-clangReal   = os.path.dirname(os.path.realpath(__file__)) + os.sep + 'clang-real' + addition
-clangBackup = os.path.dirname(os.path.realpath(__file__)) + os.sep + 'clang.backup'
 
+process = Popen(['xcrun', '-find', 'clang'],
+                stdout=subprocess.PIPE,
+                stderr=subprocess.PIPE)
+output, err = process.communicate()
+  
+clangReal   = output.strip() + addition
 
-# We should check, if clangReal is still near us...
-# In some cases, if user have updated Xcode, it can be really bad..
-if (not os.path.exists(clangReal)) and (not os.path.exists(clangBackup)):
-   stderr.write("Cannot locate original clang and it's backup.\n")
-   stderr.write("This can be because of Xcode update without dyci uninstallation.\n")
-   stderr.write("In case, if you see this, clang is little broken now, and you need to update it manually\n")
-   stderr.write("By running next command in your terminal : \n")
-   stderr.write("echo \"" + clangReal +"\" \"" + clangBackup + "\" | xargs -n 1 sudo cp /usr/bin/clang\n")
-   exit(1)
-
+stderr.write('!' + clangReal + '!')
 
 compileString = [clangReal] \
                 + sys.argv[1:]
