@@ -1,0 +1,2 @@
+#!/bin/sh
+find ~/Library/Developer/Xcode/DerivedData -type f -name build-state.dat -print0 | xargs -0 ls -t | head -n 1
