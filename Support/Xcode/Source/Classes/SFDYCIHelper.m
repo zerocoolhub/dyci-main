@@ -102,14 +102,14 @@
          // Setting up task, that we are going to call
 
          NSTask * task = [[NSTask alloc] init];
-         [task setLaunchPath:@"/usr/bin/python"];
+         [task setLaunchPath:@"/usr/bin/ruby"];
          NSString * dyciDirectoryPath = [@"~" stringByExpandingTildeInPath];
          dyciDirectoryPath = [dyciDirectoryPath stringByAppendingPathComponent:@".dyci"];
          dyciDirectoryPath = [dyciDirectoryPath stringByAppendingPathComponent:@"scripts"];
 
          [task setCurrentDirectoryPath:dyciDirectoryPath];
 
-         NSString * dyciRecompile = [dyciDirectoryPath stringByAppendingPathComponent:@"dyci-recompile.py"];
+         NSString * dyciRecompile = [dyciDirectoryPath stringByAppendingPathComponent:@"dyci-recompile.rb"];
 
          NSArray * arguments = [NSArray arrayWithObjects:dyciRecompile, [openedFileURL path], nil];
          [task setArguments:arguments];
