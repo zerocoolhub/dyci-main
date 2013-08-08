@@ -19,8 +19,12 @@ def compilation_params(compilation_string)
     
     compilation_string_left = compilation_string
     while compilation_string_left.length > 0
+    	printv "\nNext match retry\n"
     	match = nil
-    	if match = compilation_string_left.match(/(.*?)\s(--?[^\s]+)\s?([^-\s][^\s]*)?$/) 
+    	if match = compilation_string_left.match(/^(.*?)\s(--?[^\s]+)\s?([^-\s][^\s]*)?$/) ||
+    	   match = compilation_string_left.match(/^(.*?)\s(--?[^\s]+)\s("[^"]*")?$/) ||	
+    	   match = compilation_string_left.match(/^(.*?)\s("-[^"]*")?$/)
+    		printv "Matched!\n#{match[2]}\n#{match[3]}\n"
 		    compilation_string_left, param, value = match[1..3]
 		        # print "LEFT : " + compilation_string_left + "\n"
 			    printv "PARAM : #{param}\n"
@@ -38,7 +42,9 @@ def compilation_params(compilation_string)
 
     			true
     	else
+    		printv "Doesnt match. Returning"
     		command = compilation_string_left
+    		compilation_string_left = ""
     		break
     	end
     end
@@ -52,7 +58,7 @@ def recompile(path_to_build_state_dat, source_file_path)
 	regexp = "CompileC.*/usr/bin/clang.*#{source_file_path}"
 	output = `grep -E "#{regexp}" "#{path_to_build_state_dat}"`
 	# print output
-	compilation_record = output[/CompileC.*#{source_file_path}.*#{output_file}/] 
+	compilation_record = output[/CompileC.*#{Regexp.escape(source_file_path)}.*#{Regexp.escape(output_file)}/] 
     info,path_change,*rest = compilation_record.split(/\r/)
     path_change.strip!
     `#{path_change}`
