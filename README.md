@@ -1,5 +1,3 @@
-# WARNING
-
 # dyci
 Dynamic code injection tool.
 Allows you to inject your code into running iOS application, whithout restarting it.
