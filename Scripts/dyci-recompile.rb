@@ -1,5 +1,5 @@
 #!/usr/bin/ruby
-VERBOSE = false
+VERBOSE = true
 
 def printv(string)
 	print string if VERBOSE
@@ -55,10 +55,16 @@ end
 
 def recompile(path_to_build_state_dat, source_file_path)
 	output_file = File.basename(source_file_path, ".*") + ".o"
-	regexp = "CompileC.*/usr/bin/clang.*#{source_file_path}"
+	regexp = "CompileC.*/usr/bin/clang.*#{source_file_path.gsub(/\s/,"\\\\\\\\\\\\\\\\ ")}"
 	output = `grep -E "#{regexp}" "#{path_to_build_state_dat}"`
-	# print output
-	compilation_record = output[/CompileC.*#{Regexp.escape(source_file_path)}.*#{Regexp.escape(output_file)}/] 
+	print "output is #{output}"
+
+	# Since we could have escaped symbols in source file path
+	compilation_regexp = "CompileC.*#{source_file_path.gsub(/\s/,"\\\\\\\\ ")}.*#{Regexp.escape(output_file)}"
+	print "Compilation regexp is #{compilation_regexp}"
+	compilation_record = output[/#{compilation_regexp}/] 
+
+	print "Compilation record is #{compilation_record}"
     info,path_change,*rest = compilation_record.split(/\r/)
     path_change.strip!
     `#{path_change}`
@@ -116,4 +122,11 @@ end
 compilation_line, obj_file_path = recompile(last_build_state_dat_path.strip, ARGV[0])
 compile_dylib("~/.dyci/", compilation_line, obj_file_path)
 
+# 10/8/13 9:32:39.184 PM Xcode[2003]: script returned OK:
+# Running command 
+
+# Projects/Work/voicebase\-ios/VoiceBase/VoiceBase/Classes/View\ Controllers/Recording\ Info\ View\ Controller/Transcrpiption\ View\ Controller/VBTranscriptionTextView\.m
+# grep -E "CompileC.*/usr/bin/clang.*/Users/paultaykalo/Projects/Work/voicebase-ios/VoiceBase/VoiceBase/Classes/View\sControllers/" "/Users/paultaykalo/Library/Developer/Xcode/DerivedData/VoiceBase-ethuhaxdpaybucdpjsxhroomeerp/Build/Intermediates/VoiceBase.build/Debug-iphonesimulator/VoiceBase.build/build-state.dat"
+# 10/8/13 9:50:53.861 PM Xcode[2003]: script returned OK:
+# Running command grep -E "CompileC.*/usr/bin/clang.*/Users/paultaykalo/Projects/Work/voicebase-ios/VoiceBase/VoiceBase/Classes/View\\\\ Controllers/Recording\\\\ Info\\\\ View\\\\ Controller/Transcrpiption\\\\ View\\\\ Controller/VBTranscriptionTextView.m" "/Users/paultaykalo/Library/Developer/Xcode/DerivedData/VoiceBase-ethuhaxdpaybucdpjsxhroomeerp/Build/Intermediates/VoiceBase.build/Debug-iphonesimulator/VoiceBase.build/build-state.dat"
 

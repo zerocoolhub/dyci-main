@@ -1,0 +1,867 @@
+TBetterConsole
+v6
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/paultaykalo/Library/Application\ Support/Developer/Shared/Xcode/Plug-ins/BetterConsole.xcplugin/Contents/Info.plist /Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/Info.plist
+cSymLink /Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Products/Debug/BetterConsole.xcplugin /Users/paultaykalo/Library/Application\ Support/Developer/Shared/Xcode/Plug-ins/BetterConsole.xcplugin
+cCompileC /Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/x86_64/BetterConsole.o /Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/BetterConsole.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/x86_64/BCFilePathHighlighter.o /Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/BCFilePathHighlighter.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/x86_64/BCFilePathNavigator.o /Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/BCFilePathNavigator.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/x86_64/BCColorHighlighter.o /Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/BCColorHighlighter.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/x86_64/BCUtils.o /Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/BCUtils.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/x86_64/BCFilePathFinder.o /Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/BCFilePathFinder.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/i386/BetterConsole.o /Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/BetterConsole.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/i386/BCFilePathHighlighter.o /Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/BCFilePathHighlighter.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/i386/BCFilePathNavigator.o /Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/BCFilePathNavigator.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/i386/BCColorHighlighter.o /Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/BCColorHighlighter.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/i386/BCUtils.o /Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/BCUtils.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/i386/BCFilePathFinder.o /Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/BCFilePathFinder.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/x86_64/BetterConsole normal x86_64
+cLd /Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/i386/BetterConsole normal i386
+cCreateUniversalBinary /Users/paultaykalo/Library/Application\ Support/Developer/Shared/Xcode/Plug-ins/BetterConsole.xcplugin/Contents/MacOS/BetterConsole normal x86_64\ i386
+cTouch /Users/paultaykalo/Library/Application\ Support/Developer/Shared/Xcode/Plug-ins/BetterConsole.xcplugin
+cSetOwnerAndGroup paultaykalo:staff /Users/paultaykalo/Library/Application\ Support/Developer/Shared/Xcode/Plug-ins/BetterConsole.xcplugin
+cSetMode u+w,go-w,a+rX /Users/paultaykalo/Library/Application\ Support/Developer/Shared/Xcode/Plug-ins/BetterConsole.xcplugin
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
+c000000005130312F00000000000000AA
+t1362112815
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/SDKSettings.plist
+c00000000523AB13000000000000004B3
+t1379578160
+s1203
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000523AB13000000000000001DE
+t1379578160
+s478
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/AppKit.framework/AppKit
+c00000000523AB131000000000024BEE4
+t1379578161
+s2408164
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ApplicationServices.framework/ApplicationServices
+c00000000523AB1310000000000007C70
+t1379578161
+s31856
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ATS.framework/Versions/A/ATS
+c00000000523AB1310000000000020E90
+t1379578161
+s134800
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ColorSync.framework/Versions/A/ColorSync
+c00000000523AB131000000000001A05C
+t1379578161
+s106588
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/Versions/A/HIServices
+c00000000523AB13100000000000359C8
+t1379578161
+s219592
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/LangAnalysis.framework/Versions/A/LangAnalysis
+c00000000523AB131000000000000CC94
+t1379578161
+s52372
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/PrintCore.framework/Versions/A/PrintCore
+c00000000523AB131000000000002C318
+t1379578161
+s181016
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/QD.framework/Versions/A/QD
+c00000000523AB13100000000000283C4
+t1379578161
+s164804
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/SpeechSynthesis.framework/Versions/A/SpeechSynthesis
+c00000000523AB1310000000000013F68
+t1379578161
+s81768
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c00000000523AB132000000000004BBB8
+t1379578162
+s310200
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c00000000523AB132000000000008163C
+t1379578162
+s529980
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000523AB1320000000000087878
+t1379578162
+s555128
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreServices.framework/CoreServices
+c00000000523AB132000000000000962C
+t1379578162
+s38444
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/AE.framework/Versions/A/AE
+c00000000523AB1320000000000020624
+t1379578162
+s132644
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/CarbonCore.framework/Versions/A/CarbonCore
+c00000000523AB132000000000006F490
+t1379578162
+s455824
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/DictionaryServices.framework/Versions/A/DictionaryServices
+c00000000523AB1320000000000016F90
+t1379578162
+s94096
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/LaunchServices.framework/Versions/A/LaunchServices
+c00000000523AB132000000000004546C
+t1379578162
+s283756
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/Metadata.framework/Versions/A/Metadata
+c00000000523AB132000000000002FA40
+t1379578162
+s195136
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/OSServices.framework/Versions/A/OSServices
+c00000000523AB1320000000000041644
+t1379578162
+s267844
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/SearchKit.framework/Versions/A/SearchKit
+c00000000523AB132000000000001B5F8
+t1379578162
+s112120
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+c00000000523AB132000000000002E0E4
+t1379578162
+s188644
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000523AB13300000000000C4BAC
+t1379578163
+s805804
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ImageIO.framework/ImageIO
+c00000000523AB1330000000000035AE4
+t1379578163
+s219876
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/libSystem.dylib
+c00000000523AB13B000000000000654C
+t1379578171
+s25932
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/libobjc.dylib
+c00000000523AB13B00000000000143EC
+t1379578171
+s82924
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libcache.dylib
+c00000000523AB13B0000000000004528
+t1379578171
+s17704
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libcommonCrypto.dylib
+c00000000523AB13B000000000000EDB8
+t1379578171
+s60856
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libcompiler_rt.dylib
+c00000000523AB13B000000000000984C
+t1379578171
+s38988
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libcopyfile.dylib
+c00000000523AB13B0000000000004FEC
+t1379578171
+s20460
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libdispatch.dylib
+c00000000523AB13B0000000000009F64
+t1379578171
+s40804
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libdnsinfo.dylib
+c00000000523AB13B00000000000031D0
+t1379578171
+s12752
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libdyld.dylib
+c00000000523AB13B00000000000052E4
+t1379578171
+s21220
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libkeymgr.dylib
+c00000000523AB13B0000000000002D34
+t1379578171
+s11572
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/liblaunch.dylib
+c00000000523AB13B00000000000084E8
+t1379578171
+s34024
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libmacho.dylib
+c00000000523AB13B0000000000004FF4
+t1379578171
+s20468
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libquarantine.dylib
+c00000000523AB13B00000000000047A4
+t1379578171
+s18340
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libremovefile.dylib
+c00000000523AB13B0000000000004364
+t1379578171
+s17252
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_blocks.dylib
+c00000000523AB13B0000000000002EF0
+t1379578171
+s12016
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_c.dylib
+c00000000523AB13B0000000000046BB8
+t1379578171
+s289720
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_dnssd.dylib
+c00000000523AB13B00000000000067BC
+t1379578171
+s26556
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_info.dylib
+c00000000523AB13B000000000001AD9C
+t1379578171
+s109980
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_kernel.dylib
+c00000000523AB13B0000000000016C74
+t1379578171
+s93300
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_m.dylib
+c00000000523AB13B000000000000F204
+t1379578171
+s61956
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_network.dylib
+c00000000523AB13B0000000000008EC8
+t1379578171
+s36552
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_notify.dylib
+c00000000523AB13B0000000000008B14
+t1379578171
+s35604
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_sandbox.dylib
+c00000000523AB13B00000000000047C0
+t1379578171
+s18368
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libunc.dylib
+c00000000523AB13B00000000000044D8
+t1379578171
+s17624
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libunwind.dylib
+c00000000523AB13B00000000000067AC
+t1379578171
+s26540
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libxpc.dylib
+c00000000523AB13B0000000000011E4C
+t1379578171
+s73292
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.eprintf.a
+c00000000523AB13B0000000000000720
+t1379578171
+s1824
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.osx.a
+c00000000523AB13B0000000000001750
+t1379578171
+s5968
+
+N/Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/BCColorHighlighter.h
+c00000000522FA5C20000000000000077
+t1378854338
+s119
+
+N/Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/BCColorHighlighter.m
+c000000005244384C0000000000001C6D
+t1380202572
+s7277
+
+N/Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/BCFilePathFinder.h
+c00000000522FA5C2000000000000008E
+t1378854338
+s142
+
+N/Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/BCFilePathFinder.m
+c00000000522FA5C2000000000000073C
+t1378854338
+s1852
+
+N/Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/BCFilePathHighlighter.h
+c00000000522FA5C2000000000000007B
+t1378854338
+s123
+
+N/Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/BCFilePathHighlighter.m
+c00000000522FA5C20000000000000BD0
+t1378854338
+s3024
+
+N/Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/BCFilePathNavigator.h
+c00000000522FA5C200000000000002B1
+t1378854338
+s689
+
+N/Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/BCFilePathNavigator.m
+c00000000522FA5C200000000000016FC
+t1378854338
+s5884
+
+N/Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/BCUtils.h
+c00000000522FA5C200000000000000B3
+t1378854338
+s179
+
+N/Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/BCUtils.m
+c00000000522FA5C200000000000000CA
+t1378854338
+s202
+
+N/Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/BetterConsole.h
+c00000000522FA5C2000000000000006C
+t1378854338
+s108
+
+N/Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/BetterConsole.m
+c00000000522FA5C200000000000006F1
+t1378854338
+s1777
+
+N/Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/Info.plist
+c00000000522FA5C2000000000000040B
+t1378854338
+s1035
+
+N/Users/paultaykalo/Library/Application Support/Developer/Shared/Xcode/Plug-ins/BetterConsole.xcplugin
+t1381863804
+s102
+
+N/Users/paultaykalo/Library/Application Support/Developer/Shared/Xcode/Plug-ins/BetterConsole.xcplugin/Contents/Info.plist
+t1381863804
+s1435
+
+N/Users/paultaykalo/Library/Application Support/Developer/Shared/Xcode/Plug-ins/BetterConsole.xcplugin/Contents/MacOS/BetterConsole
+t1381863811
+s94264
+
+N/Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/i386/BCColorHighlighter.o
+t1381863810
+s32952
+
+N/Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/i386/BCFilePathFinder.o
+t1381863810
+s10252
+
+N/Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/i386/BCFilePathHighlighter.o
+t1381863809
+s27716
+
+N/Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/i386/BCFilePathNavigator.o
+t1381863810
+s34536
+
+N/Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/i386/BCUtils.o
+t1381863810
+s3420
+
+N/Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/i386/BetterConsole
+t1381863811
+s45112
+
+N/Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/i386/BetterConsole.LinkFileList
+c00000000525D917C00000000000004C0
+t1381863804
+s1216
+
+N/Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/i386/BetterConsole.o
+t1381863809
+s25676
+
+N/Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/x86_64/BCColorHighlighter.o
+t1381863808
+s35212
+
+N/Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/x86_64/BCFilePathFinder.o
+t1381863809
+s12840
+
+N/Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/x86_64/BCFilePathHighlighter.o
+t1381863808
+s29860
+
+N/Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/x86_64/BCFilePathNavigator.o
+t1381863808
+s38276
+
+N/Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/x86_64/BCUtils.o
+t1381863809
+s3692
+
+N/Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/x86_64/BetterConsole
+t1381863811
+s43516
+
+N/Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/x86_64/BetterConsole.LinkFileList
+c00000000525D917C00000000000004CC
+t1381863804
+s1228
+
+N/Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/x86_64/BetterConsole.o
+t1381863808
+s27692
+
+N/Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Products/Debug/BetterConsole.xcplugin
+t2
+s0
+
+CBuild AST from /Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/BCColorHighlighter.m
+r0
+
+CBuild AST from /Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/BCFilePathFinder.m
+r0
+
+CBuild AST from /Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/BCFilePathHighlighter.m
+r0
+
+CBuild AST from /Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/BCFilePathNavigator.m
+r0
+
+CBuild AST from /Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/BCUtils.m
+r0
+
+CBuild AST from /Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/BetterConsole.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies488c52fcc80db841^bc5b55fcc80db841^---0#1#1#--18"Check dependencies36"D1432249-C5AD-4412-A61F-B0E545CCBC5A-
+
+CCompileC /Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/i386/BCColorHighlighter.o /Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/BCColorHighlighter.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s403556609.674401
+e403556610.368914
+r1
+xCompileC
+x/Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/i386/BCColorHighlighter.o
+x/Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/BCColorHighlighter.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/BCColorHighlighter.m
+d/Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/BCColorHighlighter.h
+d/Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/BCUtils.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Compile /Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/BCColorHighlighter.m316"CompileC /Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/i386/BCColorHighlighter.o BetterConsole/BCColorHighlighter.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler1ac3ac01c90db841^7a715e02c90db841^---0#0#1#-19%DVTDocumentLocation2@100"file://localhost/Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/BCColorHighlighter.m0000000000000000^3200"CompileC /Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/i386/BCColorHighlighter.o BetterConsole/BCColorHighlighter.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/paultaykalo/Downloads/BetterConsole-master    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-gc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion -I/Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/BetterConsole.hmap -I/Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/DerivedSources/i386 -I/Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/DerivedSources -F/Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Products/Debug -MMD -MT dependencies -MF /Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/i386/BCColorHighlighter.d --serialize-diagnostics /Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/i386/BCColorHighlighter.dia -c /Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/BCColorHighlighter.m -o /Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/i386/BCColorHighlighter.o36"F80C6640-BA05-4F99-B2CC-BCE29D73BBA4-
+b2C9F8BBD-9647-465E-BEFE-B6C4967534BA
+
+CCompileC /Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/i386/BCFilePathFinder.o /Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/BCFilePathFinder.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s403556609.786363
+e403556610.435285
+r1
+xCompileC
+x/Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/i386/BCFilePathFinder.o
+x/Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/BCFilePathFinder.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/BCFilePathFinder.m
+d/Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/BCFilePathFinder.h
+d/Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/BCUtils.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Compile /Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/BCFilePathFinder.m312"CompileC /Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/i386/BCFilePathFinder.o BetterConsole/BCFilePathFinder.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler1971c901c90db841^fc716f02c90db841^---0#0#1#-19%DVTDocumentLocation2@98"file://localhost/Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/BCFilePathFinder.m0000000000000000^3188"CompileC /Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/i386/BCFilePathFinder.o BetterConsole/BCFilePathFinder.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/paultaykalo/Downloads/BetterConsole-master    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-gc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion -I/Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/BetterConsole.hmap -I/Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/DerivedSources/i386 -I/Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/DerivedSources -F/Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Products/Debug -MMD -MT dependencies -MF /Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/i386/BCFilePathFinder.d --serialize-diagnostics /Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/i386/BCFilePathFinder.dia -c /Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/BCFilePathFinder.m -o /Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/i386/BCFilePathFinder.o36"C1AED68D-4392-41D7-B6A1-1B25671A7FBF-
+b2C9F8BBD-9647-465E-BEFE-B6C4967534BA
+
+CCompileC /Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/i386/BCFilePathHighlighter.o /Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/BCFilePathHighlighter.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s403556608.919230
+e403556609.784762
+r1
+xCompileC
+x/Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/i386/BCFilePathHighlighter.o
+x/Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/BCFilePathHighlighter.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/BCFilePathHighlighter.m
+d/Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/BCFilePathHighlighter.h
+d/Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/BCUtils.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Compile /Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/BCFilePathHighlighter.m322"CompileC /Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/i386/BCFilePathHighlighter.o BetterConsole/BCFilePathHighlighter.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler4faceb00c90db841^2ae6c801c90db841^---0#0#1#-19%DVTDocumentLocation2@103"file://localhost/Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/BCFilePathHighlighter.m0000000000000000^3218"CompileC /Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/i386/BCFilePathHighlighter.o BetterConsole/BCFilePathHighlighter.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/paultaykalo/Downloads/BetterConsole-master    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-gc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion -I/Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/BetterConsole.hmap -I/Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/DerivedSources/i386 -I/Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/DerivedSources -F/Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Products/Debug -MMD -MT dependencies -MF /Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/i386/BCFilePathHighlighter.d --serialize-diagnostics /Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/i386/BCFilePathHighlighter.dia -c /Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/BCFilePathHighlighter.m -o /Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/i386/BCFilePathHighlighter.o36"F2B95389-6D0A-4697-8419-4EB52A3A761E-
+b2C9F8BBD-9647-465E-BEFE-B6C4967534BA
+
+CCompileC /Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/i386/BCFilePathNavigator.o /Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/BCFilePathNavigator.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s403556609.672648
+e403556610.375408
+r1
+xCompileC
+x/Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/i386/BCFilePathNavigator.o
+x/Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/BCFilePathNavigator.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/BCFilePathNavigator.m
+d/Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/BCFilePathNavigator.h
+d/Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/BCFilePathFinder.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Compile /Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/BCFilePathNavigator.m318"CompileC /Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/i386/BCFilePathNavigator.o BetterConsole/BCFilePathNavigator.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler5950ac01c90db841^761b6002c90db841^---0#0#1#-19%DVTDocumentLocation2@101"file://localhost/Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/BCFilePathNavigator.m0000000000000000^3206"CompileC /Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/i386/BCFilePathNavigator.o BetterConsole/BCFilePathNavigator.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/paultaykalo/Downloads/BetterConsole-master    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-gc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion -I/Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/BetterConsole.hmap -I/Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/DerivedSources/i386 -I/Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/DerivedSources -F/Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Products/Debug -MMD -MT dependencies -MF /Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/i386/BCFilePathNavigator.d --serialize-diagnostics /Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/i386/BCFilePathNavigator.dia -c /Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/BCFilePathNavigator.m -o /Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/i386/BCFilePathNavigator.o36"2605B084-B8EA-41A8-8E50-BA174F65623C-
+b2C9F8BBD-9647-465E-BEFE-B6C4967534BA
+
+CCompileC /Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/i386/BCUtils.o /Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/BCUtils.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s403556609.712026
+e403556610.321730
+r1
+xCompileC
+x/Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/i386/BCUtils.o
+x/Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/BCUtils.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/BCUtils.m
+d/Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/BCUtils.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Compile /Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/BCUtils.m294"CompileC /Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/i386/BCUtils.o BetterConsole/BCUtils.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler0569b601c90db841^89795202c90db841^---0#0#1#-19%DVTDocumentLocation2@89"file://localhost/Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/BCUtils.m0000000000000000^3134"CompileC /Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/i386/BCUtils.o BetterConsole/BCUtils.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/paultaykalo/Downloads/BetterConsole-master    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-gc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion -I/Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/BetterConsole.hmap -I/Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/DerivedSources/i386 -I/Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/DerivedSources -F/Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Products/Debug -MMD -MT dependencies -MF /Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/i386/BCUtils.d --serialize-diagnostics /Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/i386/BCUtils.dia -c /Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/BCUtils.m -o /Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/i386/BCUtils.o36"78F1F6D9-9A97-4F4C-8892-5BE86733291B-
+b2C9F8BBD-9647-465E-BEFE-B6C4967534BA
+
+CCompileC /Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/i386/BetterConsole.o /Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/BetterConsole.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s403556608.891043
+e403556609.708661
+r1
+xCompileC
+x/Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/i386/BetterConsole.o
+x/Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/BetterConsole.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/BetterConsole.m
+d/Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/BetterConsole.h
+d/Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/BCFilePathHighlighter.h
+d/Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/BCFilePathNavigator.h
+d/Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/BCColorHighlighter.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Compile /Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/BetterConsole.m306"CompileC /Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/i386/BetterConsole.o BetterConsole/BetterConsole.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerbd39e400c90db841^6a6ab501c90db841^---0#0#1#-19%DVTDocumentLocation2@95"file://localhost/Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/BetterConsole.m0000000000000000^3170"CompileC /Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/i386/BetterConsole.o BetterConsole/BetterConsole.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/paultaykalo/Downloads/BetterConsole-master    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-gc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion -I/Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/BetterConsole.hmap -I/Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/DerivedSources/i386 -I/Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/DerivedSources -F/Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Products/Debug -MMD -MT dependencies -MF /Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/i386/BetterConsole.d --serialize-diagnostics /Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/i386/BetterConsole.dia -c /Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/BetterConsole.m -o /Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/i386/BetterConsole.o36"38E63AE1-A1D8-41E5-B363-597BA0D678E0-
+b2C9F8BBD-9647-465E-BEFE-B6C4967534BA
+
+CCompileC /Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/x86_64/BCColorHighlighter.o /Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/BCColorHighlighter.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s403556604.357537
+e403556608.880065
+r1
+xCompileC
+x/Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/x86_64/BCColorHighlighter.o
+x/Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/BCColorHighlighter.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/BCColorHighlighter.m
+d/Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/BCColorHighlighter.h
+d/Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/BCUtils.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Compile /Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/BCColorHighlighter.m320"CompileC /Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/x86_64/BCColorHighlighter.o BetterConsole/BCColorHighlighter.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler209c5bfcc80db841^ad4be100c90db841^---0#0#1#-19%DVTDocumentLocation2@100"file://localhost/Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/BCColorHighlighter.m0000000000000000^3214"CompileC /Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/x86_64/BCColorHighlighter.o BetterConsole/BCColorHighlighter.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/paultaykalo/Downloads/BetterConsole-master    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-gc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion -I/Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/BetterConsole.hmap -I/Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/DerivedSources/x86_64 -I/Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/DerivedSources -F/Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Products/Debug -MMD -MT dependencies -MF /Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/x86_64/BCColorHighlighter.d --serialize-diagnostics /Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/x86_64/BCColorHighlighter.dia -c /Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/BCColorHighlighter.m -o /Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/x86_64/BCColorHighlighter.o36"67572456-083C-42E3-9519-65230AB2FF08-
+b2C9F8BBD-9647-465E-BEFE-B6C4967534BA
+
+CCompileC /Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/x86_64/BCFilePathFinder.o /Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/BCFilePathFinder.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s403556608.881527
+e403556609.671199
+r1
+xCompileC
+x/Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/x86_64/BCFilePathFinder.o
+x/Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/BCFilePathFinder.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/BCFilePathFinder.m
+d/Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/BCFilePathFinder.h
+d/Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/BCUtils.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Compile /Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/BCFilePathFinder.m316"CompileC /Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/x86_64/BCFilePathFinder.o BetterConsole/BCFilePathFinder.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler36cbe100c90db841^b3d3ab01c90db841^---0#0#1#-19%DVTDocumentLocation2@98"file://localhost/Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/BCFilePathFinder.m0000000000000000^3202"CompileC /Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/x86_64/BCFilePathFinder.o BetterConsole/BCFilePathFinder.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/paultaykalo/Downloads/BetterConsole-master    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-gc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion -I/Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/BetterConsole.hmap -I/Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/DerivedSources/x86_64 -I/Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/DerivedSources -F/Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Products/Debug -MMD -MT dependencies -MF /Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/x86_64/BCFilePathFinder.d --serialize-diagnostics /Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/x86_64/BCFilePathFinder.dia -c /Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/BCFilePathFinder.m -o /Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/x86_64/BCFilePathFinder.o36"92710C3F-66C4-4AA6-91D3-D78553653281-
+b2C9F8BBD-9647-465E-BEFE-B6C4967534BA
+
+CCompileC /Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/x86_64/BCFilePathHighlighter.o /Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/BCFilePathHighlighter.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s403556604.356968
+e403556608.917779
+r1
+xCompileC
+x/Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/x86_64/BCFilePathHighlighter.o
+x/Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/BCFilePathHighlighter.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/BCFilePathHighlighter.m
+d/Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/BCFilePathHighlighter.h
+d/Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/BCUtils.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Compile /Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/BCFilePathHighlighter.m326"CompileC /Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/x86_64/BCFilePathHighlighter.o BetterConsole/BCFilePathHighlighter.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler52815bfcc80db841^c7f2ea00c90db841^---0#0#1#-19%DVTDocumentLocation2@103"file://localhost/Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/BCFilePathHighlighter.m0000000000000000^3232"CompileC /Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/x86_64/BCFilePathHighlighter.o BetterConsole/BCFilePathHighlighter.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/paultaykalo/Downloads/BetterConsole-master    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-gc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion -I/Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/BetterConsole.hmap -I/Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/DerivedSources/x86_64 -I/Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/DerivedSources -F/Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Products/Debug -MMD -MT dependencies -MF /Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/x86_64/BCFilePathHighlighter.d --serialize-diagnostics /Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/x86_64/BCFilePathHighlighter.dia -c /Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/BCFilePathHighlighter.m -o /Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/x86_64/BCFilePathHighlighter.o36"9CCB1162-E56C-4B39-A56D-3F3DD4D4A6E1-
+b2C9F8BBD-9647-465E-BEFE-B6C4967534BA
+
+CCompileC /Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/x86_64/BCFilePathNavigator.o /Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/BCFilePathNavigator.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s403556604.357283
+e403556608.889632
+r1
+xCompileC
+x/Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/x86_64/BCFilePathNavigator.o
+x/Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/BCFilePathNavigator.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/BCFilePathNavigator.m
+d/Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/BCFilePathNavigator.h
+d/Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/BCFilePathFinder.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Compile /Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/BCFilePathNavigator.m322"CompileC /Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/x86_64/BCFilePathNavigator.o BetterConsole/BCFilePathNavigator.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerff975bfcc80db841^66d9e300c90db841^---0#0#1#-19%DVTDocumentLocation2@101"file://localhost/Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/BCFilePathNavigator.m0000000000000000^3220"CompileC /Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/x86_64/BCFilePathNavigator.o BetterConsole/BCFilePathNavigator.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/paultaykalo/Downloads/BetterConsole-master    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-gc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion -I/Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/BetterConsole.hmap -I/Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/DerivedSources/x86_64 -I/Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/DerivedSources -F/Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Products/Debug -MMD -MT dependencies -MF /Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/x86_64/BCFilePathNavigator.d --serialize-diagnostics /Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/x86_64/BCFilePathNavigator.dia -c /Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/BCFilePathNavigator.m -o /Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/x86_64/BCFilePathNavigator.o36"C3D322ED-DB87-4A8B-A64F-93279E9820F3-
+b2C9F8BBD-9647-465E-BEFE-B6C4967534BA
+
+CCompileC /Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/x86_64/BCUtils.o /Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/BCUtils.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s403556608.871029
+e403556609.672918
+r1
+xCompileC
+x/Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/x86_64/BCUtils.o
+x/Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/BCUtils.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/BCUtils.m
+d/Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/BCUtils.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Compile /Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/BCUtils.m298"CompileC /Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/x86_64/BCUtils.o BetterConsole/BCUtils.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerc619df00c90db841^4f5aac01c90db841^---0#0#1#-19%DVTDocumentLocation2@89"file://localhost/Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/BCUtils.m0000000000000000^3148"CompileC /Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/x86_64/BCUtils.o BetterConsole/BCUtils.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/paultaykalo/Downloads/BetterConsole-master    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-gc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion -I/Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/BetterConsole.hmap -I/Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/DerivedSources/x86_64 -I/Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/DerivedSources -F/Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Products/Debug -MMD -MT dependencies -MF /Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/x86_64/BCUtils.d --serialize-diagnostics /Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/x86_64/BCUtils.dia -c /Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/BCUtils.m -o /Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/x86_64/BCUtils.o36"3F4155F3-D9BD-42C3-A711-431CA19814FA-
+b2C9F8BBD-9647-465E-BEFE-B6C4967534BA
+
+CCompileC /Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/x86_64/BetterConsole.o /Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/BetterConsole.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s403556604.356936
+e403556608.869424
+r1
+xCompileC
+x/Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/x86_64/BetterConsole.o
+x/Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/BetterConsole.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/BetterConsole.m
+d/Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/BetterConsole.h
+d/Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/BCFilePathHighlighter.h
+d/Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/BCFilePathNavigator.h
+d/Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/BCColorHighlighter.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Compile /Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/BetterConsole.m310"CompileC /Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/x86_64/BetterConsole.o BetterConsole/BetterConsole.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerb98c5bfcc80db841^e692de00c90db841^---0#0#1#-19%DVTDocumentLocation2@95"file://localhost/Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/BetterConsole.m0000000000000000^3184"CompileC /Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/x86_64/BetterConsole.o BetterConsole/BetterConsole.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/paultaykalo/Downloads/BetterConsole-master    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-gc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion -I/Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/BetterConsole.hmap -I/Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/DerivedSources/x86_64 -I/Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/DerivedSources -F/Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Products/Debug -MMD -MT dependencies -MF /Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/x86_64/BetterConsole.d --serialize-diagnostics /Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/x86_64/BetterConsole.dia -c /Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/BetterConsole.m -o /Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/x86_64/BetterConsole.o36"0F6F1203-DD43-4754-9BCE-3963E1EEC477-
+b2C9F8BBD-9647-465E-BEFE-B6C4967534BA
+
+CCreateUniversalBinary /Users/paultaykalo/Library/Application\ Support/Developer/Shared/Xcode/Plug-ins/BetterConsole.xcplugin/Contents/MacOS/BetterConsole normal x86_64\ i386
+s403556611.367471
+e403556611.396362
+r1
+xCreateUniversalBinary
+x/Users/paultaykalo/Library/Application Support/Developer/Shared/Xcode/Plug-ins/BetterConsole.xcplugin/Contents/MacOS/BetterConsole
+xnormal
+xx86_64 i386
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection154"Create universal binary /Users/paultaykalo/Library/Application Support/Developer/Shared/Xcode/Plug-ins/BetterConsole.xcplugin/Contents/MacOS/BetterConsole173"CreateUniversalBinary /Users/paultaykalo/Library/Application\ Support/Developer/Shared/Xcode/Plug-ins/BetterConsole.xcplugin/Contents/MacOS/BetterConsole normal x86_64\ i386a6295e03c90db841^81786503c90db841^---0#0#1#-19%DVTDocumentLocation2@148"file://localhost/Users/paultaykalo/Library/Application%20Support/Developer/Shared/Xcode/Plug-ins/BetterConsole.xcplugin/Contents/MacOS/BetterConsole0038e80fdeffdf42^786"CreateUniversalBinary /Users/paultaykalo/Library/Application\ Support/Developer/Shared/Xcode/Plug-ins/BetterConsole.xcplugin/Contents/MacOS/BetterConsole normal x86_64\ i386    cd /Users/paultaykalo/Downloads/BetterConsole-master    lipo -create /Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/x86_64/BetterConsole /Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/i386/BetterConsole -output /Users/paultaykalo/Library/Application\ Support/Developer/Shared/Xcode/Plug-ins/BetterConsole.xcplugin/Contents/MacOS/BetterConsole36"08DC29C2-95D3-4BDB-839C-51D6660D2C1F-
+b2C9F8BBD-9647-465E-BEFE-B6C4967534BA
+
+CLd /Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/i386/BetterConsole normal i386
+s403556610.748046
+e403556611.358502
+r1
+xLd
+x/Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/i386/BetterConsole
+xnormal
+xi386
+d/Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/i386/BetterConsole.LinkFileList
+d/Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/i386/BetterConsole.o
+d/Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/i386/BCFilePathHighlighter.o
+d/Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/i386/BCFilePathNavigator.o
+d/Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/i386/BCColorHighlighter.o
+d/Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/i386/BCUtils.o
+d/Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/i386/BCFilePathFinder.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/AppKit.framework/AppKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.eprintf.a
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.osx.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ApplicationServices.framework/ApplicationServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libdnsinfo.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libkeymgr.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libquarantine.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libunc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ImageIO.framework/ImageIO
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreServices.framework/CoreServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ATS.framework/Versions/A/ATS
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ColorSync.framework/Versions/A/ColorSync
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/Versions/A/HIServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/LangAnalysis.framework/Versions/A/LangAnalysis
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/PrintCore.framework/Versions/A/PrintCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/QD.framework/Versions/A/QD
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/SpeechSynthesis.framework/Versions/A/SpeechSynthesis
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/CarbonCore.framework/Versions/A/CarbonCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/Metadata.framework/Versions/A/Metadata
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/OSServices.framework/Versions/A/OSServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/SearchKit.framework/Versions/A/SearchKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/AE.framework/Versions/A/AE
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/LaunchServices.framework/Versions/A/LaunchServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/DictionaryServices.framework/Versions/A/DictionaryServices
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection202"Link /Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/i386/BetterConsole212"Ld /Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/i386/BetterConsole normal i3860796bf02c90db841^03cd5b03c90db841^---0#0#1#--1579"Ld /Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/i386/BetterConsole normal i386    cd /Users/paultaykalo/Downloads/BetterConsole-master    setenv MACOSX_DEPLOYMENT_TARGET 10.8    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -bundle -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -L/Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Products/Debug -F/Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Products/Debug -filelist /Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/i386/BetterConsole.LinkFileList -Xlinker -rpath -Xlinker /Developer -mmacosx-version-min=10.8 -fobjc-link-runtime -framework AppKit -framework CoreFoundation -Xlinker -dependency_info -Xlinker /Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/i386/BetterConsole_dependency_info.dat -o /Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/i386/BetterConsole36"1BA958CD-3B3E-4041-A7D4-7F200B6B4F4E-
+b2C9F8BBD-9647-465E-BEFE-B6C4967534BA
+
+CLd /Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/x86_64/BetterConsole normal x86_64
+s403556610.748026
+e403556611.358081
+r1
+xLd
+x/Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/x86_64/BetterConsole
+xnormal
+xx86_64
+d/Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/x86_64/BetterConsole.LinkFileList
+d/Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/x86_64/BetterConsole.o
+d/Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/x86_64/BCFilePathHighlighter.o
+d/Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/x86_64/BCFilePathNavigator.o
+d/Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/x86_64/BCColorHighlighter.o
+d/Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/x86_64/BCUtils.o
+d/Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/x86_64/BCFilePathFinder.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/AppKit.framework/AppKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.osx.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ApplicationServices.framework/ApplicationServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libdnsinfo.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libkeymgr.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libquarantine.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libunc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ImageIO.framework/ImageIO
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreServices.framework/CoreServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ATS.framework/Versions/A/ATS
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ColorSync.framework/Versions/A/ColorSync
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/Versions/A/HIServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/LangAnalysis.framework/Versions/A/LangAnalysis
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/PrintCore.framework/Versions/A/PrintCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/QD.framework/Versions/A/QD
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/SpeechSynthesis.framework/Versions/A/SpeechSynthesis
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/CarbonCore.framework/Versions/A/CarbonCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/Metadata.framework/Versions/A/Metadata
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/OSServices.framework/Versions/A/OSServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/SearchKit.framework/Versions/A/SearchKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/AE.framework/Versions/A/AE
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/LaunchServices.framework/Versions/A/LaunchServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/DictionaryServices.framework/Versions/A/DictionaryServices
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection204"Link /Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/x86_64/BetterConsole216"Ld /Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/x86_64/BetterConsole normal x86_640796bf02c90db841^6cb15b03c90db841^---0#0#1#--1591"Ld /Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/x86_64/BetterConsole normal x86_64    cd /Users/paultaykalo/Downloads/BetterConsole-master    setenv MACOSX_DEPLOYMENT_TARGET 10.8    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -bundle -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -L/Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Products/Debug -F/Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Products/Debug -filelist /Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/x86_64/BetterConsole.LinkFileList -Xlinker -rpath -Xlinker /Developer -mmacosx-version-min=10.8 -fobjc-link-runtime -framework AppKit -framework CoreFoundation -Xlinker -dependency_info -Xlinker /Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/x86_64/BetterConsole_dependency_info.dat -o /Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Intermediates/BetterConsole.build/Debug/BetterConsole.build/Objects-normal/x86_64/BetterConsole36"62A496D1-90C9-44D2-BCBB-F9B11F788E10-
+b2C9F8BBD-9647-465E-BEFE-B6C4967534BA
+
+CProcessInfoPlistFile /Users/paultaykalo/Library/Application\ Support/Developer/Shared/Xcode/Plug-ins/BetterConsole.xcplugin/Contents/Info.plist /Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/Info.plist
+s403556604.329662
+e403556604.332223
+r1
+xProcessInfoPlistFile
+x/Users/paultaykalo/Library/Application Support/Developer/Shared/Xcode/Plug-ins/BetterConsole.xcplugin/Contents/Info.plist
+x/Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Process /Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/Info.plist168"ProcessInfoPlistFile /Users/paultaykalo/Library/Application\ Support/Developer/Shared/Xcode/Plug-ins/BetterConsole.xcplugin/Contents/Info.plist BetterConsole/Info.plistf37254fcc80db841^d46555fcc80db841^---0#0#1#-19%DVTDocumentLocation2@90"file://localhost/Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/Info.plist0000000000000000^494"ProcessInfoPlistFile /Users/paultaykalo/Library/Application\ Support/Developer/Shared/Xcode/Plug-ins/BetterConsole.xcplugin/Contents/Info.plist BetterConsole/Info.plist    cd /Users/paultaykalo/Downloads/BetterConsole-master    builtin-infoPlistUtility /Users/paultaykalo/Downloads/BetterConsole-master/BetterConsole/Info.plist -expandbuildsettings -platform macosx -o /Users/paultaykalo/Library/Application\ Support/Developer/Shared/Xcode/Plug-ins/BetterConsole.xcplugin/Contents/Info.plist36"89ACA704-1A76-48FF-8E42-B581FBB48D47-
+b2C9F8BBD-9647-465E-BEFE-B6C4967534BA
+
+CSetMode u+w,go-w,a+rX /Users/paultaykalo/Library/Application\ Support/Developer/Shared/Xcode/Plug-ins/BetterConsole.xcplugin
+s403556611.447162
+e403556611.457417
+r1
+xSetMode
+xu+w,go-w,a+rX
+x/Users/paultaykalo/Library/Application Support/Developer/Shared/Xcode/Plug-ins/BetterConsole.xcplugin
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection124"SetMode u+w,go-w,a+rX /Users/paultaykalo/Library/Application\ Support/Developer/Shared/Xcode/Plug-ins/BetterConsole.xcplugin124"SetMode u+w,go-w,a+rX /Users/paultaykalo/Library/Application\ Support/Developer/Shared/Xcode/Plug-ins/BetterConsole.xcplugin77857203c90db841^3f1b7503c90db841^---0#0#1#-19%DVTDocumentLocation2@120"file://localhost/Users/paultaykalo/Library/Application%20Support/Developer/Shared/Xcode/Plug-ins/BetterConsole.xcplugin/0000000000000000^318"SetMode u+w,go-w,a+rX /Users/paultaykalo/Library/Application\ Support/Developer/Shared/Xcode/Plug-ins/BetterConsole.xcplugin    cd /Users/paultaykalo/Downloads/BetterConsole-master    /bin/chmod -RH u+w,go-w,a+rX /Users/paultaykalo/Library/Application\ Support/Developer/Shared/Xcode/Plug-ins/BetterConsole.xcplugin36"B320A428-50CA-42F7-9CB5-CF5BDD0B02BF-
+b2C9F8BBD-9647-465E-BEFE-B6C4967534BA
+
+CSetOwnerAndGroup paultaykalo:staff /Users/paultaykalo/Library/Application\ Support/Developer/Shared/Xcode/Plug-ins/BetterConsole.xcplugin
+s403556611.417940
+e403556611.438906
+r1
+xSetOwnerAndGroup
+xpaultaykalo:staff
+x/Users/paultaykalo/Library/Application Support/Developer/Shared/Xcode/Plug-ins/BetterConsole.xcplugin
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection137"SetOwnerAndGroup paultaykalo:staff /Users/paultaykalo/Library/Application\ Support/Developer/Shared/Xcode/Plug-ins/BetterConsole.xcplugin137"SetOwnerAndGroup paultaykalo:staff /Users/paultaykalo/Library/Application\ Support/Developer/Shared/Xcode/Plug-ins/BetterConsole.xcpluginbc086b03c90db841^9a5c7003c90db841^---0#0#1#-19%DVTDocumentLocation2@120"file://localhost/Users/paultaykalo/Library/Application%20Support/Developer/Shared/Xcode/Plug-ins/BetterConsole.xcplugin/0000000000000000^340"SetOwnerAndGroup paultaykalo:staff /Users/paultaykalo/Library/Application\ Support/Developer/Shared/Xcode/Plug-ins/BetterConsole.xcplugin    cd /Users/paultaykalo/Downloads/BetterConsole-master    /usr/sbin/chown -RH paultaykalo:staff /Users/paultaykalo/Library/Application\ Support/Developer/Shared/Xcode/Plug-ins/BetterConsole.xcplugin36"65AB234D-13FB-4A2A-8213-09EEFF4FC1CF-
+b2C9F8BBD-9647-465E-BEFE-B6C4967534BA
+
+CSymLink /Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Products/Debug/BetterConsole.xcplugin /Users/paultaykalo/Library/Application\ Support/Developer/Shared/Xcode/Plug-ins/BetterConsole.xcplugin
+s403556604.340607
+e403556604.348127
+r1
+xSymLink
+x/Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Products/Debug/BetterConsole.xcplugin
+x/Users/paultaykalo/Library/Application Support/Developer/Shared/Xcode/Plug-ins/BetterConsole.xcplugin
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection149"Process /Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Products/Debug/BetterConsole.xcplugin252"SymLink /Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Products/Debug/BetterConsole.xcplugin /Users/paultaykalo/Library/Application\ Support/Developer/Shared/Xcode/Plug-ins/BetterConsole.xcpluginb26357fcc80db841^4f1f59fcc80db841^---0#0#1#--571"SymLink /Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Products/Debug/BetterConsole.xcplugin /Users/paultaykalo/Library/Application\ Support/Developer/Shared/Xcode/Plug-ins/BetterConsole.xcplugin    cd /Users/paultaykalo/Downloads/BetterConsole-master    /bin/ln -sf /Users/paultaykalo/Library/Application\ Support/Developer/Shared/Xcode/Plug-ins/BetterConsole.xcplugin /Users/paultaykalo/Library/Developer/Xcode/DerivedData/BetterConsole-beyclcoqezrzrefcjngawoproqko/Build/Products/Debug/BetterConsole.xcplugin36"D1BFC04E-57D9-4A32-BD06-DE633E0498F3-
+b2C9F8BBD-9647-465E-BEFE-B6C4967534BA
+
+CTouch /Users/paultaykalo/Library/Application\ Support/Developer/Shared/Xcode/Plug-ins/BetterConsole.xcplugin
+s403556611.404398
+e403556611.409802
+r1
+xTouch
+x/Users/paultaykalo/Library/Application Support/Developer/Shared/Xcode/Plug-ins/BetterConsole.xcplugin
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Touch /Users/paultaykalo/Library/Application Support/Developer/Shared/Xcode/Plug-ins/BetterConsole.xcplugin108"Touch /Users/paultaykalo/Library/Application\ Support/Developer/Shared/Xcode/Plug-ins/BetterConsole.xcpluginc5916703c90db841^3ee96803c90db841^---0#0#1#--291"Touch /Users/paultaykalo/Library/Application\ Support/Developer/Shared/Xcode/Plug-ins/BetterConsole.xcplugin    cd /Users/paultaykalo/Downloads/BetterConsole-master    /usr/bin/touch -c /Users/paultaykalo/Library/Application\ Support/Developer/Shared/Xcode/Plug-ins/BetterConsole.xcplugin36"2EC3222A-DAE7-422B-A1FC-CB6A2A31FC4B-
+b2C9F8BBD-9647-465E-BEFE-B6C4967534BA
+

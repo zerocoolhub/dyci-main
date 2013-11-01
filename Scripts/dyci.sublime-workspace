@@ -1,0 +1,227 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"re",
+				"req	require \"..\""
+			],
+			[
+				"cl",
+				"cla	Create functional test class"
+			],
+			[
+				"ene",
+				"event"
+			],
+			[
+				"ma",
+				"map_key"
+			],
+			[
+				"map",
+				"map_key_regions"
+			],
+			[
+				"map_",
+				"map_key"
+			],
+			[
+				"end_",
+				"end_map"
+			],
+			[
+				"end_a",
+				"end_array_regions"
+			],
+			[
+				"sta",
+				"start_array"
+			],
+			[
+				"pre",
+				"prev_pos"
+			],
+			[
+				"curre",
+				"currentPos"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/Ruby/Ruby.sublime-build",
+	"command_palette":
+	{
+		"height": 287.0,
+		"selected_items":
+		[
+			[
+				"Pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Packa",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 530.0
+	},
+	"console":
+	{
+		"height": 229.0,
+		"history":
+		[
+			"view.run_command(\"example\")",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/paultaykalo/Library/Application Support/Sublime Text 3/Packages/User/RubyTest.sublime-settings",
+		"/Users/paultaykalo/Projects/dyci/main/dyci-main/Scripts/dyci_recompiler.rb",
+		"/Users/paultaykalo/Projects/dyci/main/dyci-main/Scripts/dyc_recompiler_test.rb",
+		"/Users/paultaykalo/Projects/Work/voicebase-ios/cintegration/configs/base.cfg",
+		"/Users/paultaykalo/Projects/Work/voicebase-ios/Api/api.json",
+		"/Users/paultaykalo/Library/Application Support/Sublime Text 3/Packages/User/ijson/python.py",
+		"/Users/paultaykalo/Library/Application Support/Sublime Text 3/Packages/User/json-validator.py"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"push",
+			"[]\n",
+			"\")\n",
+			" \"",
+			"			elif event == \"start_map\":\n			    start_map_regions.append(sublime.Region(start,end))\n",
+			"start_map",
+			"\")\n",
+			"currentPos",
+			"self.currentPos =",
+			"sef",
+			"\")\n",
+			"parse_value"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 301.0
+	},
+	"project": "dyci.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
