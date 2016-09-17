@@ -316,6 +316,11 @@ extern void _CFBundleFlushBundleCaches(CFBundleRef bundle) __attribute__((weak_i
       void * libHandle = dlopen([dciDynamicLibraryPath cStringUsingEncoding:NSUTF8StringEncoding],
                                 RTLD_NOW | RTLD_GLOBAL);
       char * err = dlerror();
+
+      while (!libHandle) {
+          sleep(0.05);
+          libHandle = dlopen([dciDynamicLibraryPath cStringUsingEncoding:NSUTF8StringEncoding], RTLD_NOW | RTLD_GLOBAL);
+      }
       
       if (libHandle) {
          
